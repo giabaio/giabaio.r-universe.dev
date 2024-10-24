@@ -4,6 +4,10 @@
         "url": "https://github.com/giabaio/survHEhmc"
     },
     {
+        "package": "SWSamp",
+        "url": "https://github.com/giabaio/SWSamp"
+    },
+    {
         "package": "survHEinla",
         "url": "https://github.com/giabaio/survHEinla"
     },
