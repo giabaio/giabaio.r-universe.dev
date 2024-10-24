@@ -1,0 +1,14 @@
+[
+    {
+        "package": "survHEhmc",
+        "url": "https://github.com/giabaio/survHEhmc"
+    },
+    {
+        "package": "survHEinla",
+        "url": "https://github.com/giabaio/survHEinla"
+    },
+    {
+        "package": "bmhe",
+        "url": "https://github.com/giabaio/bmhe_utils"
+    }
+]
