@@ -14,10 +14,9 @@
     {
         "package": "bmhe",
         "url": "https://github.com/giabaio/bmhe_utils"
-    }
+    },
     {
         "package": "BCEAweb",
         "url": "https://github.com/giabaio/BCEAweb"
     }
-    
 ]
