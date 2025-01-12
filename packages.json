@@ -1,5 +1,9 @@
 [
     {
+        "package": "BCEA",
+        "url": "https://github.com/giabaio/BCEA"
+    },
+    {
         "package": "survHEhmc",
         "url": "https://github.com/giabaio/survHEhmc"
     },
