@@ -4,6 +4,10 @@
         "url": "https://github.com/giabaio/BCEA"
     },
     {
+        "package": "survHE",
+        "url": "https://github.com/giabaio/survHE"
+    },
+    {
         "package": "survHEhmc",
         "url": "https://github.com/giabaio/survHEhmc"
     },
